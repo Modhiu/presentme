@@ -6,7 +6,7 @@ struct ContentView: View {
         List{
             VStack{
                 Image(.profileh).resizable().frame(width: 120, height: 120)
-                Text("modhi, \(24)")
+                Text("modhi, \(33)")
                     .font(.title2)
                     .fontWeight(.semibold)
                 
