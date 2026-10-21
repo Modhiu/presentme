@@ -14,7 +14,7 @@ struct ContentView: View {
                 .listRowBackground(Color.clear)
         
             Section{
-                Text("Hi im modhi and im so excited :D")}header: {
+                Text("Hi im modhi and im so excited :D , \n this is new wowww")}header: {
                 Text("about")
             }
         
